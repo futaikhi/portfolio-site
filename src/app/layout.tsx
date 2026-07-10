@@ -16,6 +16,11 @@ export const metadata: Metadata = {
   title: "Futaikhi | Senior Backend Engineer",
   description:
     "Professional portfolio for Futaikhi, a Senior Backend Engineer with expertise in PHP, Laravel, Node.js, APIs, databases, and enterprise systems.",
+  icons: {
+    icon: "/favicon.svg",
+    shortcut: "/favicon.svg",
+    apple: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({
