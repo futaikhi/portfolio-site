@@ -21,7 +21,7 @@ export function Hero() {
 
         <div className="space-y-4">
           <p className="font-mono text-sm uppercase tracking-[0.35em] text-stone-400">
-            Senior Backend Engineer
+            Senior Fullstack Engineer
           </p>
           <h1 className="text-4xl font-semibold leading-tight text-stone-50 sm:text-5xl">
             Building resilient systems for enterprise products and modern APIs.
@@ -33,6 +33,13 @@ export function Hero() {
         </div>
 
         <div className="flex flex-wrap gap-3">
+          <a
+            href="/file/futaikhi-cv.pdf"
+            className="inline-flex items-center gap-2 rounded-full bg-blue-500 px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-blue-400"
+          >
+            Download CV
+            <ArrowRight size={16} />
+          </a>
           <a
             href="mailto:futaikhi.fut@gmail.com"
             className="inline-flex items-center gap-2 rounded-full bg-pink-500 px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-pink-400"
