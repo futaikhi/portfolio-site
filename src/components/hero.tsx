@@ -21,7 +21,7 @@ export function Hero() {
 
         <div className="space-y-4">
           <p className="font-mono text-sm uppercase tracking-[0.35em] text-stone-400">
-            Senior Fullstack Engineer
+            Senior Fullstack Developer
           </p>
           <h1 className="text-4xl font-semibold leading-tight text-stone-50 sm:text-5xl">
             Building resilient systems for enterprise products and modern APIs.
