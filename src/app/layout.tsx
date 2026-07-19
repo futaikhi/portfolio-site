@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Futaikhi | Senior Backend Engineer",
+  title: "Futaikhi | Senior Fullstack Developer",
   description:
-    "Professional portfolio for Futaikhi, a Senior Backend Engineer with expertise in PHP, Laravel, Node.js, APIs, databases, and enterprise systems.",
+    "Professional portfolio for Futaikhi, a Senior Fullstack Developer with expertise in PHP, Laravel, Node.js, APIs, databases, and enterprise systems.",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",

@@ -20,7 +20,7 @@ export function Navbar() {
             <p className="text-sm font-semibold uppercase tracking-[0.25em] text-stone-100">
               Futaikhi
             </p>
-            <p className="text-xs text-stone-400">Senior Backend Engineer</p>
+            <p className="text-xs text-stone-400">Senior Fullstack Developer</p>
           </div>
         </Link>
 

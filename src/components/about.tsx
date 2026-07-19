@@ -7,7 +7,7 @@ export function About() {
         <p className="font-mono text-sm uppercase tracking-[0.35em] text-stone-500">About</p>
         <h2 className="mt-3 text-3xl font-semibold text-stone-50">Professional summary</h2>
         <p className="mt-4 text-lg leading-8 text-stone-300">
-          Experienced Senior Backend Engineer with more than 5 years of experience in backend
+          Experienced Senior Fullstack Developer with more than 5 years of experience in backend
           application development, system maintenance, and REST API implementation for enterprise
           environments. I am comfortable working in structured corporate settings and partnering
           with cross-functional teams to deliver dependable software.
